@@ -14,3 +14,12 @@ Section 4
 Section 5
 ![alt text](<Screenshot 2024-06-26 000357.png>)
 ![alt text](<Screenshot 2024-06-26 004724.png>)
+Section 6
+![alt text](<Screenshot 2024-06-26 225639.png>)
+![alt text](<Screenshot 2024-06-26 225912.png>)
+Section 7
+![alt text](<Screenshot 2024-06-26 230737.png>)
+![alt text](<Screenshot 2024-06-26 231436.png>)
+Section 8
+![alt text](<Screenshot 2024-06-26 231711.png>)
+![alt text](<Screenshot 2024-06-26 231921.png>)
