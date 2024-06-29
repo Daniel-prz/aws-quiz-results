@@ -1,4 +1,5 @@
 # aws-quiz-results
+
 Section 1
 ![alt text](<Screenshot 2024-06-24 222543.png>)
 ![alt text](<Screenshot 2024-06-24 225750.png>)
@@ -29,3 +30,12 @@ Section 9
 Section 10
 ![alt text](<Screenshot 2024-06-27 234848.png>)
 ![alt text](<Screenshot 2024-06-28 020034.png>)
+Section 11
+![alt text](<Screenshot 2024-06-29 005945.png>)
+![alt text](<Screenshot 2024-06-29 010136.png>)
+Section 12
+![alt text](<Screenshot 2024-06-29 010509.png>)
+![alt text](<Screenshot 2024-06-29 010858.png>)
+Section 13
+![alt text](<Screenshot 2024-06-29 011214.png>)
+![alt text](<Screenshot 2024-06-29 011658.png>)
