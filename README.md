@@ -48,3 +48,12 @@ Section 15
 Section 16
 ![alt text](<Screenshot 2024-07-02 010308.png>)
 ![alt text](<Screenshot 2024-07-02 010530.png>)
+Section 17
+![alt text](<Screenshot 2024-07-03 000900.png>)
+![alt text](<Screenshot 2024-07-03 001046.png>)
+Section 18
+![alt text](<Screenshot 2024-07-03 001301.png>)
+![alt text](<Screenshot 2024-07-03 001436.png>)
+Section 19
+![alt text](<Screenshot 2024-07-03 002801.png>)
+![alt text](<Screenshot 2024-07-03 003459.png>)
